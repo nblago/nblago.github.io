@@ -11,7 +11,7 @@
 	$(document).ready(function(){
 	
                 //$(".banner-image").backstretch('images/banner.jpg');
-		$(".banner-image").backstretch('images/Keck.JPG');
+		$(".banner-image").backstretch('images/ORM.JPG');
 		
 		// Fixed header
 		//-----------------------------------------------
